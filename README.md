@@ -26,7 +26,7 @@ Aplicación de gestión de tareas desarrollada con React, Tailwind CSS y conexi�
    ```bash
    git clone https://github.com/Andrew-cx8/ToDo-Tasks
    cd todo-app
-  ```
+  
 Integrantes:
 - Adolfo Andres Chaverra Pineda
 - Juan Jose Castro Duque
